@@ -48,9 +48,9 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
-           ▄︻┻═┳一 ♥️K๏MąIL-KђąЙ-๏FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ K๏MąIL - cL๏Йєr  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
+           ▄︻┻═┳一 ♥️Muhammad Tarek Ahmed ♥️----------🔴
+           ▄︻┻═┳一 ♥️♥️ FROM- EILTE FORCR  ♥️♥️----🔴🔴
+           ▄︻┻═┳一    💪💪REMEMBER THIS NAME💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
   
